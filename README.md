@@ -13,12 +13,10 @@ Please raise any issues, questions or comments as a [new issue in this repositor
 
 | Data Field | Example Value | Description |
 |---|---|---|
-
 | id | 4811  | The latitude GPS coordinate of where the table tennis table is. | 
 | kind | "club"  | The longitude GPS coordinate of where the table tennis table is.  | 
 | modified | 34471 | The name of the table. | 
 | state | "updated" | The name of the table. | 
-
 | data |
 | id | 4811 | Always empty  | 
 | name | "Brand Identity" |  The country where the tables. | 
@@ -26,7 +24,6 @@ Please raise any issues, questions or comments as a [new issue in this repositor
 | timetableUrl | null| Gives details of the telephone of the person who looks after the table.|
 | accreditation | "PremierClub" | Gives details of weather the table tennis table is indoors or out doors. This field is free text.|
 | provisions |  | Gives details of weather the table tennis table is fixed or fold away. This field is free text.|
-
 | venue |
 | id | 4016 | Always empty  | 
 | name | "33 Leitrim Avenue" | Always empty  | 
