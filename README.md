@@ -14,9 +14,9 @@ Please raise any issues, questions or comments as a [new issue in this repositor
 | Data Field | Example Value | Description |
 |---|---|---|
 | id | 4811  | The unique identification number of the club | 
-| kind | "club"  | ??  | 
-| modified | 34471 | ?? | 
-| state | "updated" | ?? | 
+| kind | "club"  | This always returns club, it’s a framework value that describes the data set.  | 
+| modified | 34471 | Framework value | 
+| state | "updated" | Framework value | 
 | data |
 | id | 4811 | The unique identification number of the club  | 
 | name | "Brand Identity" |  The name of the club | 
@@ -27,7 +27,7 @@ Please raise any issues, questions or comments as a [new issue in this repositor
 | accreditation |
 | accreditiation | "PremierClub" | Status of clubs accredition - i.e PremierClub, AbilityClub, ClubMark |
 | provisions |
-| provisions | 2 | 2 - Juniors, 3 - Sessions, 4 - Beginners welcome, 5 - Suitable for people with disabilities and impairments, 6 - Competitive play, 7 - Coaching available |
+| provisions | 2 | 2 Juniors 3 Sessions 4 Beginners welcome 5 Suitable for people with disabilities and impairments 6 Competitive play 7 Coaching available |
 | venue |
 | id | 4016 | The unique ID of the venue  | 
 | name | "33 Leitrim Avenue" | The name of the venue  | 
@@ -38,10 +38,10 @@ Please raise any issues, questions or comments as a [new issue in this repositor
 | website | "null" | The venue's website address  | 
 | lat | "0.0" | The latitude of the venue location  | 
 | lng | "0.0 | The longtitude of the venue location  | 
-| type | "A dedicated Table Tennis facility" | ??  | 
+| type | "A dedicated Table Tennis facility" | The type of facility, ie a community venue or outdoor table  | 
 | availableTables | 0 | Number of table tennis tables at the venue  | 
 | facilities |
-| facilities | "Changing Rooms, "Accessible Changing" | Accessible Changing, Accessible Toilets, Cafe / Refreshments, Changing Rooms, Disability Access, Onsite Parking  | 
+| facilities | "Changing Rooms, "Accessible Changing" | Accessible Changing Accessible Toilets Cafe  Refreshments Changing Rooms Disability Access Onsite Parking  | 
 | primaryVenue | "false" | Is this the main venue that the club uses?  | 
 
 ## Changelog
