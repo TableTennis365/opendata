@@ -1,7 +1,7 @@
 # Table Tennis England Club Open Data
 
 ## Open Data Endpoint
-https://www.tabletennis365.com/TableTennisEngland/API/OpenActive/v1/Clubs - a feed of the data from www.tabletennis365.com/TableTennisEngland
+https://www.tabletennis365.com/TableTennisEngland/API/OpenActive/v1/Clubs - a feed of the data from www.tabletennis365.com
 
 ## Standards
 The data is published to conform to [Openactive Realtime Paged Data Exchange 0.2.3](https://www.openactive.io/realtime-paged-data-exchange/0.2.3/).
