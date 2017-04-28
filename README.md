@@ -1,4 +1,4 @@
-# Table Tennis England Ping! Open Data
+# Table Tennis England Club Open Data
 
 ## Open Data Endpoint
 https://www.tabletennis365.com/TableTennisEngland/API/OpenActive/v1/Clubs - a feed of the data from www.tabletennis365.com/TableTennisEngland
